@@ -28,7 +28,7 @@
 * 
 * ![image](https://user-images.githubusercontent.com/100986357/215884791-e5936b79-61d5-4068-9a43-f9a14a7e1e1d.png)
 
-* choose no to skip running the game
+* choose to skip running the game
 * ![image](https://user-images.githubusercontent.com/100986357/215885020-40f0a85a-ebde-46a1-be06-a03c3c655f76.png)
 
 This is the test case 1 using dice rolling results from rolls_1.json. You can change to test case 2 with rolls_2.json
